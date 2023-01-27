@@ -1,18 +1,18 @@
 {
-    "name": "laravel-enso/history-tracker",
+    "name": "cgdsoftware/history-tracker",
     "description": "Model history tracking dependency for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "cgdsoftware",
         "history-tracker"
     ],
-    "homepage": "https://github.com/laravel-enso/history-tracker",
+    "homepage": "https://github.com/cgdsoftware/history-tracker",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         }
     ],
