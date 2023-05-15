@@ -7,7 +7,7 @@
 
 Simple to use, customizable Laravel Model history tracking utility trait
 
-[Laravel Enso](https://github.com/laravel-enso/Enso) already includes this package
+[Laravel Liberu](https://github.com/laravel-enso/Liberu) already includes this package
 
 ### Installation, Configuration & Usage
 
