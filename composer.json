@@ -24,5 +24,8 @@
         "psr-4": {
             "LaravelEnso\\HistoryTracker\\": "src/"
         }
+    },
+    "require-dev": {
+        "rector/rector": "^0.17.0"
     }
 }
