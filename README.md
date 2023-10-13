@@ -11,7 +11,7 @@ Simple to use, customizable Laravel Model history tracking utility trait
 
 ### Installation, Configuration & Usage
 
-Be sure to check out the full documentation for this package available at [docs.laravel-enso.com](https://docs.laravel-enso.com/backend/history-tracker.html)
+Be sure to check out the full documentation for this package available at [docs.liberu.co.uk](https://docs.liberu.co.uk/backend/history-tracker.html)
 
 ### Contributions
 

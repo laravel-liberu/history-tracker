@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\HistoryTracker\Traits;
+namespace LaravelLiberu\HistoryTracker\Traits;
 
 use Illuminate\Support\Collection;
 use LogicException;

@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelEnso\\HistoryTracker\\": "src/"
+            "LaravelLiberu\\HistoryTracker\\": "src/"
         }
     },
     "require-dev": {
