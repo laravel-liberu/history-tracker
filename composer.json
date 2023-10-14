@@ -1,6 +1,6 @@
 {
     "name": "laravel-liberu/history-tracker",
-    "description": "Model history tracking dependency for Laravel Enso",
+    "description": "Model history tracking dependency for Laravel Liberu",
     "keywords": [
         "laravel-liberu",
         "history-tracker"
